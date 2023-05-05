@@ -1,0 +1,5 @@
+nombre;apellidos;esVeterinario;numeroColegiado;numeroMascotas;
+Tamara;García García;true;234567;-;
+Pedro;Fernández Fernández;false;-;2;
+Juan;Canto Canto;true;897777;-;
+Marina;Sánchez Sánchez;false;-;1;
